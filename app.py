@@ -1,15 +1,8 @@
 import pandas as pd
 import datetime
-import pandas as pd
-from tkinter import *
 import mysql.connector
 import time
 import json
-import pandas as pd
-import datetime
-from flask import Flask, make_response, Response
-from flask import Flask, render_template, redirect, request
-import threading
 from datetime import datetime, time, timedelta
 from flask import Flask, g, redirect, render_template, request, session, url_for, make_response, Response
 import os
